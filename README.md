@@ -95,3 +95,49 @@ Tools: Cypress, Playwright, Puppeteer
 Reverses the typical development process:
 1. Write tests for edge cases first
 2. Implement the functionality to pass those tests
+
+
+---
+
+# Software Testing Types
+
+## 1. Functional Testing
+- **Unit Testing**
+- **Integration Testing**
+- **System Testing**
+- **User Acceptance Testing (UAT)**
+- **Smoke Testing**
+- **Sanity Testing**
+- **Regression Testing**
+- **Interface Testing**
+
+## 2. Non-Functional Testing
+- **Performance Testing**
+  - Load Testing
+  - Stress Testing
+  - Spike Testing
+  - Endurance Testing
+- **Security Testing**
+- **Usability Testing**
+- **Compatibility Testing**
+- **Reliability Testing**
+- **Scalability Testing**
+- **Accessibility Testing**
+
+## 3. Maintenance Testing
+- **Regression Testing**
+- **Maintenance Testing**
+
+## 4. Other Testing Types
+- **Alpha Testing**
+- **Beta Testing**
+- **Ad-hoc Testing**
+- **Exploratory Testing**
+- **Black Box Testing**
+- **White Box Testing**
+- **Grey Box Testing**
+- **Static Testing**
+- **Dynamic Testing**
+
+
+---
